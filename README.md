@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile; Data%20Scientist;Research%20&%20Artificial%20Intelligence%20enthusiast; Machine%20Learning)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=1000&color=4E94F7&center=true&width=435&lines=Welcome+To+My+Profile;Data+Scientist;Research+%26+Artificial+Intelligence+enthusiast;Machine+Learning)](https://git.io/typing-svg)
 -👋 Hi, I’m @Ishakant
 - 👀 I’m interested in Data Scice, Machine Learning, SQL
 - 💞️ I’m looking to collaborate on Data Sciene/ML Projects

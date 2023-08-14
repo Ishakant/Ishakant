@@ -1,4 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=1000&color=4E94F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Data+Scientist%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Research+%26+Artificial+Intelligence%F0%9F%8E%86;Machine+Learning%F0%9F%A7%AE)](https://git.io/typing-svg)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures the content is vertically centered */
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+  <p>Welcome To My Profile 🐱‍👤</p>
+  <p>Data Scientist👨‍💻</p>
+  <p>Research & Artificial Intelligence🎆</p>
+  <p>Machine Learning🧮</p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=1000&color=4E94F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Data+Scientist%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Research+%26+Artificial+Intelligence%F0%9F%8E%86;Machine+Learning%F0%9F%A7%AE"
+         alt="Typing SVG" />
+  </a>
+</div>
+
+</body>
+</html>
 
 <h1 align="center">Hi 👋, I'm Ishakant</h1>
 
